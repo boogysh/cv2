@@ -13,9 +13,9 @@ import "./App.css";
 
 function App() {
   return (
-    // <Router basename="/cv/">
+    // <Router basename="/cv2/">
     <Router >
-      <Header basename="/cv/"/>
+      <Header basename="/cv2/"/>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/architecture" element={<Architecture />} />
