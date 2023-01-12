@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/cv2/static/css/main.8c6d0021.css",
+    "main.js": "/cv2/static/js/main.a97c8b39.js",
+    "static/media/pr1-2x.jpg": "/cv2/static/media/pr1-2x.749442b6520c4cc1aee8.jpg",
+    "static/media/3.png": "/cv2/static/media/3.59ec6cc47aaade5d1151.png",
+    "static/media/7.png": "/cv2/static/media/7.0d9c6bd69a633e43992e.png",
+    "static/media/front-1200.jpg": "/cv2/static/media/front-1200.8c6e0a44596c4d9074b4.jpg",
+    "static/media/banner1_dev.png": "/cv2/static/media/banner1_dev.709e8a9a77122caf3b75.png",
+    "static/media/bg.png": "/cv2/static/media/bg.1c7fb1e7ea6569faa542.png",
+    "static/media/eu2.png": "/cv2/static/media/eu2.f824aecff6b3b2682ad8.png",
+    "static/media/missing.png": "/cv2/static/media/missing.f00e90e415ad1b3a1343.png",
+    "static/media/imgDefault.png": "/cv2/static/media/imgDefault.eb4d2acacf501e4be2b2.png",
+    "static/media/bg12.png": "/cv2/static/media/bg12.17d27e5defe9d272002b.png",
+    "static/media/telephone.png": "/cv2/static/media/telephone.fb244201058d6b0c101c.png",
+    "static/media/gmail.png": "/cv2/static/media/gmail.f8dfbe8b0875e9328ff2.png",
+    "static/media/react.png": "/cv2/static/media/react.0786db8db4afd977ea4b.png",
+    "static/media/node.png": "/cv2/static/media/node.82bfa6ed2a1d002158de.png",
+    "static/media/balise-ferm.png": "/cv2/static/media/balise-ferm.3be989beded979601522.png",
+    "static/media/linkedin.png": "/cv2/static/media/linkedin.f249b38224ca41a0b909.png",
+    "static/media/balise-ouvr.png": "/cv2/static/media/balise-ouvr.bc7f05837fa6603f2886.png",
+    "static/media/js.png": "/cv2/static/media/js.032a276d1f24e5ba32ff.png",
+    "index.html": "/cv2/index.html",
+    "main.8c6d0021.css.map": "/cv2/static/css/main.8c6d0021.css.map",
+    "main.a97c8b39.js.map": "/cv2/static/js/main.a97c8b39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c6d0021.css",
+    "static/js/main.a97c8b39.js"
+  ]
+}
